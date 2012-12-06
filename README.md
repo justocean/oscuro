@@ -1,4 +1,4 @@
-# Oscuro Theme
+# [Oscuro Theme](http://oscuro.hellogrid.com)
 Color scheme for TextMate and Sublime Text 2.
 [http://oscuro.hellogrid.com](http://oscuro.hellogrid.com)
 
