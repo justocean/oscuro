@@ -2,12 +2,12 @@
 Color scheme for TextMate and Sublime Text 2.
 [http://oscuro.hellogrid.com](http://oscuro.hellogrid.com)
 
-![oscuro screenshot](http://oscuro.hellogrid.com/github/screen-oscuro.png)
+![oscuro screenshot](https://raw.github.com/hellogrid/oscuro/master/img/screen-oscuro.png)
 
 ## Luna
 Luna is a light version, sister scheme to Oscuro.
 
-![luna screenshot](http://oscuro.hellogrid.com/github/screen-luna.png)
+![luna screenshot](https://raw.github.com/hellogrid/oscuro/master/img/screen-luna.png)
 
 ## Installation
 ### TextMate
