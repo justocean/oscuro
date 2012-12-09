@@ -4,14 +4,6 @@ Color scheme for TextMate and Sublime Text 2.
 
 ![oscuro screenshot](https://raw.github.com/hellogrid/oscuro/master/img/screen-oscuro.png)
 
-<<<<<<< HEAD
-## Luna
-Luna is a light version, sister scheme to Oscuro.
-
-![luna screenshot](https://raw.github.com/hellogrid/oscuro/master/img/screen-luna.png)
-
-=======
->>>>>>> Scheme Update
 ## Installation
 ### TextMate
 1. Unzip and double-click the theme files to install and activate.
